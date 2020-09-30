@@ -1,4 +1,4 @@
-# UW-FinSent
+# UW-FinSent- an amazing project
 
 This project documents an attempt at Task 5 for Semeval 2017
 The current implementation focuses on Subtask 2 - Headlines
